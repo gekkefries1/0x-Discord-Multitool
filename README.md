@@ -30,11 +30,11 @@
   - Globar Info Grabber
   - .Py Obfuscator
 
-## Planned For Next Update:
-```yaml
+-Planned For Next Update:
+
   - Global Message Spreader
   - Auto Response
 
-## Finished Functions For Next Update:
-```yaml
+-Finished Functions For Next Update:
+
   - Global Message Spreader
