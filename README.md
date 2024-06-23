@@ -29,3 +29,12 @@
   - Ip Grabber Builder
   - Globar Info Grabber
   - .Py Obfuscator
+
+## Planned For Next Update:
+```yaml
+  - Global Message Spreader
+  - Auto Response
+
+## Finished Functions For Next Update:
+```yaml
+  - Global Message Spreader
