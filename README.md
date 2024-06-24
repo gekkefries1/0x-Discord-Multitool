@@ -10,6 +10,10 @@
 
 ## 🚀 Functions
 ```yaml
+
+- My Own Status:
+  - Busy With Studying
+
 - 🟢 Functions:
   - Token Checker
   - Nuked
