@@ -38,6 +38,9 @@
   - Globar Info Grabber
   - .Py Obfuscator
 
+- 🟢 SelfBot Functions:
+  - Get User ID Info | Gets: Banner/pfp URL, Username, Account creation date
+
 - 📝 Planned For Next Update:
   - Global Message Spreader
   - Auto Response
@@ -50,6 +53,7 @@
   - N1TRO Sniper
   - Auto Response
   - Token Onliner
+  - SelfBot
 
 - 📝 Things I Gotta Do Before Release:
   - Make Tiny Bit Of Adjustments
