@@ -9,6 +9,7 @@
 </p>
 
 [![Views](https://komarev.com/ghpvc/?username=johndoe&label=Views)](https://github.com/johndoe/my-awesome-repo)
+[![GitHub stars](https://img.shields.io/github/stars/johndoe/my-awesome-repo.svg?style=social)](https://github.com/johndoe/my-awesome-repo)
 
 
 ## 🚀 Functions
