@@ -51,6 +51,7 @@
   - N1TRO Sniper
   - Token Onliner
   - SelfBot
+  - Group Chat Raider
 
 - ✅ Finished Functions For Next Update:
   - Global Message Spreader
