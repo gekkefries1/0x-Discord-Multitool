@@ -48,4 +48,8 @@
   - Global Message Spreader
   - N1TRO Sniper
   - Auto Response
+  - Token Onliner
 
+- 📝 Things I Gotta Do Before Release:
+  - Make Tiny Bit Of Adjustments
+  - Compile it :D
