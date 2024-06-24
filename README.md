@@ -8,8 +8,8 @@
   <a href="https://discord.gg/Jtv8YeH7PN">Join our Discord server</a>
 </p>
 
-[![Views](https://komarev.com/ghpvc/?username=johndoe&label=Views)](https://github.com/johndoe/my-awesome-repo)
-[![GitHub stars](https://img.shields.io/github/stars/johndoe/my-awesome-repo.svg?style=social)](https://github.com/johndoe/my-awesome-repo)
+[![Views](https://komarev.com/ghpvc/?username=gekkefries1&label=Views)](https://github.com/gekkefries1/0x-Discord-Multitool)
+[![GitHub stars](https://img.shields.io/github/stars/gekkefries1/0x-Discord-Multitool.svg?style=social)](https://github.com/gekkefries1/0x-Discord-Multitool/stargazers)
 
 
 ## 🚀 Functions
