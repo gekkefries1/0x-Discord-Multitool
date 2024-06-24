@@ -1,7 +1,7 @@
 # 0x Multi-Tool
 
 <p align="center">
-  <img src="[https://ibb.co/f44sm93]" alt="0x Multi-Tool" />
+  <img src="[https://i.ibb.co/6ggk68K/image.png]" alt="0x Multi-Tool" />
 </p>
 
 ## Functions
@@ -34,7 +34,10 @@
 
   - Global Message Spreader
   - Auto Response
+  - N1TRO Sniper
 
 -Finished Functions For Next Update:
 
   - Global Message Spreader
+  - N1TRO Sniper
+  - Auto Response
