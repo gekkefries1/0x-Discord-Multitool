@@ -10,7 +10,7 @@
 
 [![Views](https://komarev.com/ghpvc/?username=gekkefries1&label=Views)](https://github.com/gekkefries1/0x-Discord-Multitool)
 
-# Please Star This Repo!
+# Please Star This Repo! >>⭐<<
 
 ## 🚀 Functions
 ```yaml
