@@ -8,9 +8,9 @@
   <a href="https://discord.gg/Jtv8YeH7PN">Join our Discord server</a>
 </p>
 
-## Functions
+## 🚀 Functions
 ```yaml
-- Functions:
+- 🟢 Functions:
   - Token Checker
   - Nuked
   - Ip Checker
@@ -34,12 +34,12 @@
   - Globar Info Grabber
   - .Py Obfuscator
 
-- Planned For Next Update:
+- 📝 Planned For Next Update:
   - Global Message Spreader
   - Auto Response
   - N1TRO Sniper
 
-- Finished Functions For Next Update:
+- ✅ Finished Functions For Next Update:
   - Global Message Spreader
   - N1TRO Sniper
   - Auto Response
