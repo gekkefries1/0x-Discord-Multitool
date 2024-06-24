@@ -43,6 +43,7 @@
   - Auto Response
   - N1TRO Sniper
   - Token Onliner
+  - SelfBot
 
 - ✅ Finished Functions For Next Update:
   - Global Message Spreader
