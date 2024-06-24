@@ -39,7 +39,7 @@
   - .Py Obfuscator
 
 - 🟢 SelfBot Functions:
-  - Get User ID Info | Gets: Banner/pfp URL, Username, Account creation date
+  - Get User ID Info | Gets -> Banner/pfp URL, Username, Account creation date
 
 - 📝 Planned For Next Update:
   - Global Message Spreader
