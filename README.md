@@ -1,7 +1,7 @@
 # 0x Multi-Tool
 
 <p align="center">
-  <img src="[https://i.ibb.co/6ggk68K/image.png]" alt="0x Multi-Tool" />
+  <img src="https://i.ibb.co/6ggk68K/image.png" alt="0x Multi-Tool" />
 </p>
 
 ## Functions
@@ -30,14 +30,12 @@
   - Globar Info Grabber
   - .Py Obfuscator
 
--Planned For Next Update:
-
+- Planned For Next Update:
   - Global Message Spreader
   - Auto Response
   - N1TRO Sniper
 
--Finished Functions For Next Update:
-
+- Finished Functions For Next Update:
   - Global Message Spreader
   - N1TRO Sniper
   - Auto Response
