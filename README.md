@@ -8,6 +8,9 @@
   <a href="https://discord.gg/Jtv8YeH7PN">Join our Discord server</a>
 </p>
 
+[![Views](https://komarev.com/ghpvc/?username=johndoe&label=Views)](https://github.com/johndoe/my-awesome-repo)
+
+
 ## 🚀 Functions
 ```yaml
 
