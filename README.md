@@ -4,6 +4,10 @@
   <img src="https://i.ibb.co/6ggk68K/image.png" alt="0x Multi-Tool" />
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/Jtv8YeH7PN">Join our Discord server</a>
+</p>
+
 ## Functions
 ```yaml
 - Functions:
