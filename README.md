@@ -9,8 +9,8 @@
 </p>
 
 [![Views](https://komarev.com/ghpvc/?username=gekkefries1&label=Views)](https://github.com/gekkefries1/0x-Discord-Multitool)
-[![GitHub stars](https://img.shields.io/github/stars/gekkefries1/0x-Discord-Multitool.svg?style=social)](https://github.com/gekkefries1/0x-Discord-Multitool/stargazers)
 
+# Please Star This Repo!
 
 ## 🚀 Functions
 ```yaml
