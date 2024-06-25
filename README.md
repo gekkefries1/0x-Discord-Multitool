@@ -44,6 +44,7 @@
 
 - 🟢 SelfBot Functions:
   - Get User ID Info | Gets -> Banner/pfp URL, Username, Account creation date
+  - Auto Reaction | will auto add reaction to ur user target
 
 - 📝 Planned For Next Update:
   - Global Message Spreader
